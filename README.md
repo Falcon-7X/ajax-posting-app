@@ -1,1 +1,2 @@
-bug : delete button
+debug : delete button is ok
+Bubble up
